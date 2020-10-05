@@ -1,7 +1,7 @@
 
 /**********TAG selectors***********/
 body{
-
+  list-style: square;
   background-color: #ffd5cd;
 }
 h1{
@@ -45,3 +45,6 @@ img {
   color: purple;
 }
 /****ID selectors*****/
+#intro-paragraph{
+  color:#8675a9;
+}
