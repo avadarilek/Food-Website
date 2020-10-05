@@ -1,7 +1,45 @@
 body{
 
-  background-color: plum;
+  background-color: #ffd5cd;
 }
 h1{
+  color: #8675a9;
+}
+hr{
+
+  border-style: dotted;
+  border-width: 5px;
+  height: 2px;
+  width: 95%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+/*******CLASS selectors*******/
+.red-HR{
+  color:red;
+}
+
+.orange-HR{
+
+  color:orange;
+}
+.yellow-HR{
+  color:yellow;
+}
+
+.green-HR{
+  color:green;
+}
+.blue-HR{
   color: blue;
 }
+
+.purple-HR{
+  color: purple;
+}
+/****ID selectors*****/
